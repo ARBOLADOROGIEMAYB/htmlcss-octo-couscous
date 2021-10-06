@@ -1,0 +1,71 @@
+body{
+	background-image:url(../images/images.jpg);
+	background-size:1550px 800px;
+	background-repeat:no repeat;
+}
+h2{
+	font-family:cursive;
+	color:rgb(255,255,255);
+	font-size:40px;
+}
+.personal{
+width:675px;
+height:300px;
+background-image:url(../images/mee.jpg);
+opacity:75%;
+margin-top:18%;
+left:50%;
+position:relative;
+transform:translate(-50%,-50%);
+box-sizing:border-box;
+border:5px solid rgb(0,0,0);
+}
+.formgroup{
+padding:color 0 22px;
+top:-345px;
+left:633px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+}
+.form{
+padding:color 0 22px;
+top:-340px;
+left:615px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+}
+.group{
+padding:color 0 22px;
+top:-335px;
+left:605px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+}
+.forms{
+padding:color 0 22px;
+top:-330px;
+left:585px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+}
+.button{
+padding:color 0 22px;
+top:-320px;
+left:720px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+box-sizing:border-box;
+border-radius:10px;
+font-family:cursive;
+color:rgb(0,0,0);
+}

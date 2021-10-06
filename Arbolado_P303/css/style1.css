@@ -1,0 +1,60 @@
+body{
+	background-image:url(../images/login.jpg);
+	background-size:1400px 660px;
+	background-repeat:no repeat;
+}
+h2{
+	font-family:cursive;
+	color:rgb(255,255,255);
+	font-size:40px;
+}
+.admin{
+width:450px;
+height:300px;
+background-color:rgb(199,21,133);
+opacity:65%;
+margin-top:25%;
+left:50%;
+position:relative;
+transform:translate(-50%,-50%);
+box-sizing:border-box;
+border:5px solid rgb(0,0,0);
+}
+.group{
+padding:color 0 22px;
+top:-345px;
+left:500px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+}
+.form{
+padding:color 0 22px;
+top:-340px;
+left:505px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+}
+.button{
+padding:color 0 22px;
+top:-320px;
+left:650px;
+position:relative;
+font-family:cursive;
+color:rgb(255,255,255);
+font-size:15px;
+box-sizing:border-box;
+border-radius:10px;
+font-family:cursive;
+color:rgb(0,0,0);
+}
+a{
+
+position:relative;
+top:-280px;
+left:570px;
+color:rgb(255,255,255);
+}
