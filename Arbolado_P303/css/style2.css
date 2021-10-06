@@ -1,10 +1,33 @@
 body{
-	background-image:url(../images/login.jpg);
-	background-size:1400px 660px;
+	background-image:url(../images/list.jpg);
+	background-size:1200px 660px;
 	background-repeat:no repeat;
 }
-h2{
-	font-family:cursive;
-	color:rgb(255,255,255);
-	font-size:40px;
+caption{
+margin-left:-25px;
+font-family:cursive;
+font-weight:bold;
+font-size:40px;
+}
+table{
+position:relative;
+z-index:2;
+margin-top:15%;
+left:50%;
+transform:translate(-50%,-50%);
+width:70%;
+border:2px solid #000000;
+overflow:hidden;
+text-align:center;
+background:rgb(255,255,255,0.5);
+
+}
+th,td{
+padding:11px 13px;
+}
+th{
+background:rgb(0,0,0,0.3);
+}
+td{
+background:rgb(0,0,0,0.3);
 }
